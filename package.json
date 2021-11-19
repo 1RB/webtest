@@ -1,10 +1,19 @@
-{  
-  "name": "authworriawebtest",
+{
+  "name": "authworriatest",
   "version": "1.0.0",
   "description": "",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheIIISociety/webtest.git"
+  },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheIIISociety/webtest/issues"
+  },
+  "homepage": "https://github.com/TheIIISociety/webtest#readme"
 }
